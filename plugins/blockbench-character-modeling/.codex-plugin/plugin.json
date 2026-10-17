@@ -1,0 +1,17 @@
+{
+  "name": "blockbench-character-modeling",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "按参考制作 Minecraft 方块角色，保留已认可部分，并逐轮检查真实模型。",
+  "author": {"name": "jiuxiansheng1111"},
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Minecraft 角色建模",
+    "shortDescription": "参考拆解、方块造型、真实预览与导出检查",
+    "longDescription": "把参考中的脸型、五官、分束长发与身体比例转换为可编辑 Blockbench 工程；提供冻结部件核对、静态审计和真实渲染对照工具。",
+    "developerName": "jiuxiansheng1111",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["按我提供的参考重做角色，保留已经认可的身体，先检查脸和头发。"]
+  }
+}

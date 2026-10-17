@@ -1,0 +1,6 @@
+interface:
+  display_name: "Minecraft 角色建模"
+  short_description: "按角色参考拆解脸型五官和方块发束，保护已认可部件并检查真实预览"
+  default_prompt: "使用 $blockbench-character-modeling 按参考修改我的角色模型，先记录锁定部件和本轮问题，再实际建模、渲染并逐项对照。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "blockbench-character-modeling",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Reference-led Minecraft character modeling, visual iteration and honest delivery checks.",
+  "author": {"name": "jiuxiansheng1111"},
+  "repository": "https://github.com/jiuxiansheng1111/blockbench-character-workflow",
+  "keywords": ["blockbench", "minecraft", "character", "modeling", "skills"]
+}

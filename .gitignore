@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+local-work/
+*.bbmodel
+*.zip
+.env
+.env.*
