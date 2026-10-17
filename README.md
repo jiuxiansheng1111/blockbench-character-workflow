@@ -1,10 +1,32 @@
 # Minecraft 角色建模工作流
 
+[English description](README.en.md)
+
+> **严禁商用，使用后果自行承担。** 当前版本仅供个人学习、研究和非商业创作；不得销售、用于付费建模服务、收费内容或商业产品。完整条款及历史许可说明见 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。
+
 **这是基于 Minecraft 方块与像素风格的角色建模插件，供 Codex 配合 Blockbench 使用。** 它按参考拆解脸型、五官、长方体发束和身体比例，实际修改可编辑模型，保护用户已经认可的部件，并用真实渲染逐轮对照。
 
 建模目标是制作适合 Minecraft 场景的角色资源：以长方体结构、清晰像素色块、可辨认的轮廓和游戏距离下的可读性为基础。接入游戏时必须适配具体 Minecraft 版本、Java/Bedrock 格式与模组加载器；通用 Blockbench 工程不会自动获得跨版本兼容性。
 
 这是从多轮角色建模修改中整理的工作方法与工具。它不会凭一句提示词保证角色相似度，也不把 `.bbmodel` 自动等同于游戏模型。**不是安装进 Blockbench 的 JavaScript 扩展**；可配合 Blockbench 桌面端、可用的建模工具或可选 MCP 使用。
+
+## 实际建模效果参考
+
+下面是本项目实际可编辑模型的渲染，不是生成的概念图，也不是 Minecraft 游戏截图。它们展示当前模型效果，并不承诺每次调用都达到相同结果。头部近景使用检查副本取景，完整工程仍保留长发。原始参考图片及第三方模型文件没有转载。
+
+八人全身：
+
+![八名 Minecraft 风格角色的实际模型全身预览](docs/images/eight-overview.png)
+
+脸型、像素五官与分束头发：
+
+![八人实际模型的头部细节](docs/images/eight-heads.png)
+
+实际导出网格的正面、侧面、背面：
+
+![八人运行时网格的正侧背离线渲染](docs/images/runtime-r16-orthographic.png)
+
+图片来源、完整性记录及权利边界见 [展示图说明](docs/images/README.md)。
 
 ## 包含内容
 
@@ -59,4 +81,4 @@ python scripts/contact_sheet.py --image front=front.png --image side=side.png --
 
 查看 [VALIDATION.md](VALIDATION.md) 了解本版本实际执行的检查。仓库上传不等于插件已在所有客户端安装验证；静态检查不等于角色美术或 Minecraft 实机验收。
 
-仓库只包含原创工作流和辅助代码，不包含用户角色模型、参考图片、第三方贴图/网格/动画、游戏整合包、聊天记录或凭证。参考作品和外部工具各自保留原有权利，参见 [NOTICE.md](NOTICE.md)。
+仓库包含工作流、原创辅助代码和经用户授权发布的实际模型展示图，不包含可编辑角色模型、原始参考图片、第三方贴图/网格/动画、游戏整合包、聊天记录或凭证。参考作品和外部工具各自保留原有权利，参见 [NOTICE.md](NOTICE.md)。

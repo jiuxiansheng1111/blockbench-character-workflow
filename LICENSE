@@ -1,21 +1,22 @@
-MIT License
-
+Minecraft Character Modeling — Non-Commercial Terms (0.2.0 onward)
 Copyright (c) 2026 jiuxiansheng1111
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+中文
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+严禁商用，使用后果自行承担。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. 在本许可覆盖范围内，允许个人学习、研究和非商业创作使用、修改与免费分享本项目。分享时必须保留本许可、署名及 NOTICE.md，不得将修改版冒充原作者提供或认可的版本。
+2. 禁止商业使用，包括销售本项目或其修改版、提供付费建模/咨询服务、加入收费软件/插件/内容包、用于商业宣传或盈利产品，以及以本项目为手段直接或间接牟利。需要其他用途时，须另行取得相应权利人的书面许可。
+3. 项目与展示内容按现状提供，不保证模型相似度、游戏兼容性或特定用途。使用者自行承担使用、修改、传播及违反许可产生的责任与后果；本条不排除或限制适用法律不允许排除或限制的责任。
+4. 角色设计、商标、第三方工具及第三方内容的权利属于各自权利人。本许可仅在维护者有权授予的范围内适用，不授予第三方知识产权的额外许可，也不声明维护者拥有用户独立创作内容的所有权。
+5. 本条款自 0.2.0 起用于新版本与新增内容。仓库 0.1.0 历史提交曾以 MIT 发布；本条款不声称追溯撤销已授予的历史许可。对已经在历史 MIT 版本中发布的相同材料，应同时查阅对应版本的许可记录。新增展示图未包含在历史 MIT 版本中。
+
+English
+
+COMMERCIAL USE IS STRICTLY PROHIBITED. USE AT YOUR OWN RISK.
+
+1. Within the scope of these terms, permission is granted to use, modify and share this project free of charge for personal learning, research and non-commercial creation. Keep this license, attribution and NOTICE.md with redistributed copies. Do not present modified versions as provided or endorsed by the original maintainer.
+2. Commercial use is prohibited, including selling the project or derivatives, paid modeling or consulting services, inclusion in paid software/plugins/content packs, commercial promotion, profit-making products, and direct or indirect monetization using this project. Other uses require separate written permission from the relevant rights holders.
+3. The project and showcase are provided as-is, without guarantees of resemblance, game compatibility or fitness for a particular purpose. Users bear responsibility for their use, modification, distribution and violations of these terms, subject to applicable law. Nothing here excludes or limits liability that cannot lawfully be excluded or limited.
+4. Character designs, trademarks, third-party tools and third-party materials remain the property of their respective rights holders. These terms apply only to rights the maintainer can grant. They grant no additional third-party IP rights and claim no ownership over independently created user content.
+5. These terms apply from version 0.2.0 to the new release and new contributions. Historical 0.1.0 commits were published under MIT. These terms do not claim to retroactively revoke previously granted licenses; consult the historical license for identical material already published there. Newly added showcase images were not included in that MIT release.

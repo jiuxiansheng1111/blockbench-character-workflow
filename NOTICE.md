@@ -9,4 +9,10 @@
 - OpenAI/Codex：插件格式文档来源于 OpenAI 官方文档。
 - Minecraft：相关商标与游戏权利归其权利人；本项目并非官方产品。
 
-参考人物及模型没有包含在这个仓库中。本仓库的原创说明和辅助代码按 MIT 许可分发，见 LICENSE；该许可不授予第三方作品的复制、再分发或商业使用权。
+本仓库包含经用户授权的实际模型展示图，不含可编辑角色模型或原始参考素材。展示的 BanG Dream! / MyGO!!!!! / Ave Mujica 角色设计及相关权利属于原权利人；公开展示不授予角色 IP 的商业使用权。
+
+当前 0.2.0 使用自定义非商业条款，见 LICENSE。它是公开可读源码项目，不应描述为允许任意用途的开源许可。严禁商用，使用后果自行承担，但不声称免除依法不得免除的责任。
+
+历史许可必须如实保留：提交 `438d0693605867eede60e6c291b1a712c09e1f2d` 和 `924407b` 的 0.1.0 内容曾按 MIT 发布。MIT 本身允许商业使用（[许可原文](https://opensource.org/license/mit)）；新增的非商用声明不声称追溯撤回历史授权。0.2.0 新增展示图未在 MIT 版中发布。
+
+Current release: non-commercial source-available terms. Commercial use is prohibited; users bear responsibility for their actions, subject to applicable law. The initial 0.1.0 commits were published under MIT; this notice does not claim to revoke those historical grants. Third-party character/IP rights remain with their respective owners.

@@ -1,14 +1,14 @@
 {
   "name": "blockbench-character-modeling",
-  "version": "0.1.0",
-  "license": "MIT",
+  "version": "0.2.0",
+  "license": "LicenseRef-NonCommercial",
   "description": "基于 Minecraft 方块与像素风格的角色建模插件：参考拆解、实际建模、多视图对照及游戏导出检查。",
   "author": {"name": "jiuxiansheng1111"},
   "skills": "./skills/",
   "interface": {
     "displayName": "Minecraft 角色建模",
     "shortDescription": "参考拆解、方块造型、真实预览与导出检查",
-    "longDescription": "基于 Minecraft 的方块与像素风格，把参考中的脸型、五官、分束长发与身体比例转换为可编辑 Blockbench 角色工程；提供冻结部件核对、静态审计、真实渲染对照和具体游戏版本/加载器的导出检查。",
+    "longDescription": "基于 Minecraft 的方块与像素风格，把参考中的脸型、五官、分束长发与身体比例转换为可编辑 Blockbench 角色工程；提供冻结部件核对、静态审计、真实渲染对照和游戏导出检查。严禁商用，使用后果自行承担，具体条款见仓库 LICENSE。",
     "developerName": "jiuxiansheng1111",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],

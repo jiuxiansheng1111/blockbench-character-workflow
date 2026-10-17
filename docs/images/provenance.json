@@ -1,0 +1,41 @@
+{
+  "authorization": "User requested public actual modeling image examples on 2026-10-17",
+  "images": [
+    {
+      "file": "eight-overview.png",
+      "source_project": "IC2-newera",
+      "source_relative_path": "art/robot-mcp-workspace/characters/seven-r16-standard/eight-overview.png",
+      "sha256": "c1979eb37751338306b7031c285e6a31984f08409e4b5219c338fd7762f00026",
+      "size": [
+        2000,
+        1110
+      ],
+      "source_bytes_identical": true,
+      "kind": "actual-model-render-not-game-screenshot"
+    },
+    {
+      "file": "eight-heads.png",
+      "source_project": "IC2-newera",
+      "source_relative_path": "art/robot-mcp-workspace/characters/seven-r16-standard/eight-heads.png",
+      "sha256": "a3f78df3eed69ddc5b2be32392f3ddc8822b12890977cba5d6884fe0838ef438",
+      "size": [
+        2000,
+        1110
+      ],
+      "source_bytes_identical": true,
+      "kind": "actual-model-render-not-game-screenshot"
+    },
+    {
+      "file": "runtime-r16-orthographic.png",
+      "source_project": "IC2-newera",
+      "source_relative_path": "art/robot-mcp-workspace/runtime-r16/runtime-r16-orthographic.png",
+      "sha256": "1f2a784d9b53d6e8e8d48bb73f11e0514cd60c2240063ea23a2a45986f075067",
+      "size": [
+        1680,
+        1020
+      ],
+      "source_bytes_identical": true,
+      "kind": "actual-model-render-not-game-screenshot"
+    }
+  ]
+}
