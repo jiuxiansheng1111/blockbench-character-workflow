@@ -5,6 +5,8 @@ description: Create or revise Minecraft-style character models in Blockbench fro
 
 # 参考驱动的 Minecraft 角色建模
 
+本技能基于 Minecraft 的方块几何与像素视觉语言。角色需在游戏常规观察距离下清楚可读，导出必须匹配具体 Minecraft 版本、Java/Bedrock 与实际加载器。
+
 把用户当前反馈转成具体几何改动。先看参考和实际模型，再写本轮简报、修改、渲染和对比。角色辨识度来自轮廓、五官比例和发束走向；方块数量与自评分不能替代这三项。
 
 ## 1. 明确当前范围

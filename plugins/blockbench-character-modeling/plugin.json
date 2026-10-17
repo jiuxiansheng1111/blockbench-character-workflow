@@ -3,7 +3,7 @@
   "name": "blockbench-character-modeling",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "Reference-led Minecraft character modeling, visual iteration and honest delivery checks.",
+  "description": "Minecraft block-and-pixel character modeling for Codex and Blockbench, with reference-led geometry, real previews and target-aware export checks.",
   "author": {"name": "jiuxiansheng1111"},
   "repository": "https://github.com/jiuxiansheng1111/blockbench-character-workflow",
   "keywords": ["blockbench", "minecraft", "character", "modeling", "skills"]
